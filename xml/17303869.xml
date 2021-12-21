@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plaka</folder>
+	<filename>17303869.jpg</filename>
+	<path>C:\Users\mecit.sezgin\Desktop\yenii\plaka\17303869.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plaka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>631</ymin>
+			<xmax>683</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+</annotation>
